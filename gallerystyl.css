@@ -26,6 +26,9 @@ gap: 1rem;}
 a{
     text-decoration: none;
 }
+.i1{
+    background-size: cover;
+}
 .f{ 
     font-family: 'Inter';
     font-style: normal;
